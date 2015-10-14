@@ -1,0 +1,51 @@
+{
+    "SITE": {
+        "ROOT": "http:\/\/localhost:8888\/redsocial\/",
+        "SECURE": "0",
+        "HASH": "100f650",
+        "INSTALLATION": "1",
+        "THEME": "simplex",
+        "PAGE": "admin",
+        "SESSION_EXPIRE": "1800",
+        "LOGO": "http:\/\/feedstack.asia\/img\/logo.png",
+        "FOOTER": "Feedstack - A php social networking script | a <a href=\"http:\/\/packetcode.com\">packetcode<\/a> production"
+    },
+    "DB": {
+        "DB_NAME": "redsocial",
+        "HOST": "localhost:8889",
+        "USERNAME": "adrian",
+        "PASSWORD": "1111"
+    },
+    "META": {
+        "SITE_NAME": "redsocial",
+        "SITE_URL": "http:\/\/localhost:8888\/redsocial\/",
+        "TITLE": "redsocial",
+        "AUTHOR": "DreamTeam",
+        "DESC": "Red Social Para UTM :D",
+        "KEYWORDS": "redsocial,utm,utmetropolitana",
+        "IMAGE": "http:\/\/feedstack.asia\/img\/logo.png"
+    },
+    "MAILGUN": {
+        "API_KEY": "",
+        "DOMAIN_NAME": "",
+        "ADMIN_EMAIL": ""
+    },
+    "AD_BLOCK": {
+        "VISIBLE": "0",
+        "250": "<script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script><ins class=\"adsbygoogle\" style=\"display:inline-block;width:250px;height:250px\" data-ad-client=\"ca-pub-4970258300493014\" data-ad-slot=\"4392677881\"><\/ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>",
+        "728": "<script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script><ins class=\"adsbygoogle\" style=\"display:inline-block;width:728px;height:90px\" data-ad-client=\"ca-pub-4970258300493014\" data-ad-slot=\"3924686286\"><\/ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>",
+        "468": "<script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script><ins class=\"adsbygoogle\" style=\"display:inline-block;width:468px;height:60px\" data-ad-client=\"ca-pub-4970258300493014\" data-ad-slot=\"6069796688\"><\/ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>"
+    },
+    "FEEDSTACK": {
+        "FEED_COUNT": "10",
+        "COMMENT_COUNT": "3",
+        "MEMBER_COUNT": "20",
+        "NOTIFICATION_CENTER_COUNT": "10",
+        "DEFAULT_FOLLOW": ""
+    },
+    "SOCIAL_LINKS": {
+        "FACEBOOK": "https:\/\/www.facebook.com\/groups\/packetcode\/",
+        "TWITTER": "https:\/\/twitter.com\/shaadomanthra",
+        "GOOGLE_PLUS": "https:\/\/plus.google.com\/+redsocialutm"
+    }
+}

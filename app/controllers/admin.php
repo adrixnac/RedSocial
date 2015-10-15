@@ -51,7 +51,7 @@ class ControllerAdmin{
 		$basket->set('count',$count);
 		//render the dasboard page
 		pathang::render('admin','dashboard');
-		//GAC
+		//GAC-Hola
 	}
 
 	// function to  display/manipulate the general settings of the page
